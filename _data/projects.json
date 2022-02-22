@@ -1,38 +1,38 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
-        "description": "My Description 01",
+        "image": "assets/img/projects/vally-BUNGUN.jpg",
+        "title": "20년 첫 배구경기",
+        "description": "2020년도 첫경기. 코로나로 인한 마지막 경기",
+        "link": "https://youtu.be/73aEZe5n064?t=599"
+    },
+    {
+        "image": "assets/img/projects/U-tube_crowring.jpg",
+        "title": "JAVA:유투브 크롤링",
+        "description": "게임 페이지의 게임영상을 크롤링 하였음",
+        "link": "https://www.youtube.com/gaming/trending"
+    },
+    {
+        "image": "assets/img/projects/vag_bench.jpg",
+        "title": "Python:사이트 크롤링",
+        "description": "그래픽카드 벤치 사이트 및 무료 음원 사이트, 크롤링 중인 사이트",
+        "link": "https://colab.research.google.com/drive/1iN9KPQjV2RoYWogWPVTtnopuwjyBYif_?usp=sharing"
+    },
+    {
+        "image": "assets/img/projects/TEAM_PROJECT.jpg",
+        "title": "팀 프로잭트-자율주행",
+        "description": "하둡,파이썬,HTML,CSS,D3.JS,진행-데이터 정제파트 맡음",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
-        "description": "My Description 02",
+        "image": "assets/img/projects/TOY_backjack.jpg",
+        "title": "Python:toyproject 블랙잭",
+        "description": "토이 프로젝트-블랙잭",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
-        "description": "My Description 03",
-        "link": "#"
-    },
-    {
-        "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
-        "description": "My Description 04",
-        "link": "#"
-    },
-    {
-        "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
-        "description": "My Description 05",
-        "link": "#"
-    },
-    {
-        "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
-        "description": "My Description 06",
-        "link": "#"
+        "image": "assets/img/projects/cholong.jpg",
+        "title": "강아지를 좋아 합니다.",
+        "description": "현재 3대째 이어지는 강아지 사진",
+        "link": "https://youtu.be/wbsq1zeBwbo"
     }
 ]
