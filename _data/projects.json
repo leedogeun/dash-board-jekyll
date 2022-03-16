@@ -7,9 +7,9 @@
     },
     {
         "image": "assets/img/projects/U-tube_crowring.jpg",
-        "title": "JAVA:유투브 크롤링",
-        "description": "게임 페이지의 게임영상을 크롤링 하였음",
-        "link": "https://www.youtube.com/gaming/trending"
+        "title": "JAVA:유투브 크롤링, Python: 크롤링+워드클라우드",
+        "description": "자바는 유투브 주소 크롤링, 파이썬은 성경,코란 크롤링 후 워드클라우드 재작",
+        "link": "https://colab.research.google.com/drive/1QYCwA64XeE32qAL_njGJiPo-JTQOstC1?usp=sharing"
     },
     {
         "image": "assets/img/projects/vag_bench.jpg",
