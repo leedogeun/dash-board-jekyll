@@ -6,12 +6,12 @@
     "birth": "1992 02 27",
     "resumes": [
         {
-            "label": "RESUME",
-            "link": "assets/resume/my-resume.txt"
+            "label": "UML:참고도서",
+            "link": "https://drive.google.com/file/d/1e5kDHqil9wJxF9nUJGwfVhfkSSDmwObN/view?usp=sharing"
         },
         {
-            "label": "PORTFOLIO",
-            "link": "https://swmaestro.org/sw/cmmn/file/fileDown.do?atchFileId=a269afb2417d46ff9a2167942b728001&fileSn=3"
+            "label": "이력서",
+            "link": "https://drive.google.com/file/d/1yJX7uyd3r9nGpBBYd-_0a4kQ89jwV0d9/view?usp=sharing"
         }
     ],
     "socials": [
