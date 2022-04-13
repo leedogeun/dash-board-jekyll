@@ -25,7 +25,7 @@
     },
     {
         "image": "assets/img/projects/TOY_backjack.jpg",
-        "title": "Python:toyproject 블랙잭",
+        "title": "Python:toyproject 사람인식",
         "description": "영상속 사람 인식 후 각 부위(눈,귀,코,어깨,하체 등) 점과 선으로 표현",
         "link": "https://colab.research.google.com/drive/1JK5_nQBOJnRZEq8gGYOMFSEMijWKJJzM?usp=sharing"
     },
