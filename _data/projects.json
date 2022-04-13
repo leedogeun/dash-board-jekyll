@@ -26,8 +26,8 @@
     {
         "image": "assets/img/projects/TOY_backjack.jpg",
         "title": "Python:toyproject 블랙잭",
-        "description": "토이 프로젝트-블랙잭-> 추후 수정이 필요함",
-        "link": "https://drive.google.com/file/d/17dj8xHwTQyot6h2FvoKNk-ARPweao5-3/view?usp=sharing"
+        "description": "영상속 사람 인식 후 각 부위(눈,귀,코,어깨,하체 등) 점과 선으로 표현",
+        "link": "https://colab.research.google.com/drive/1JK5_nQBOJnRZEq8gGYOMFSEMijWKJJzM?usp=sharing"
     },
     {
         "image": "assets/img/projects/cholong.jpg",
